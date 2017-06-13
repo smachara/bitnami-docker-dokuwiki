@@ -188,7 +188,7 @@ To backup your application data follow these steps:
 ```
 $ docker cp dokuwiki:/bitnami/dokuwiki /path/to/dokuwiki-persitence
 $ docker cp dokuwiki:/bitnami/apache /path/to/apache-persitence
-$ docker cp dokuwiki:/bitnami/php /path/to/apache-persitence
+$ docker cp dokuwiki:/bitnami/php /path/to/php-persitence
 ```
 
 # Restoring a backup
